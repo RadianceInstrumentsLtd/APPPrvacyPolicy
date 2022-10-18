@@ -1,0 +1,2 @@
+# AccThermPrvacyPolicy
+This is AccThermPrvacyPolicy
